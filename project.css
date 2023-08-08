@@ -1,0 +1,151 @@
+/* common start style */
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: grey;
+}
+.container {
+    background-color: rgb(206, 204, 186);
+    width: 1000px;
+    margin: 0 auto;
+}
+/* common end style */
+h1,
+h2,
+h3,
+h4,
+h5,
+h5 {
+    color: rgb(98, 124, 158);
+    font-weight: bold;
+}
+img {
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 30px;
+    border-radius: 50%;
+}
+.h-div1 {
+    float: left;
+    padding: 30px;
+}
+.header-contract {
+    float: right;
+    padding: 30px;
+}
+.header-contract a {
+    text-decoration: none;
+    color: teal;
+}
+.header-contract a:hover {
+    color: tomato;
+    text-decoration: underline;
+}
+.div-clear {
+    
+}
+.common-hr {
+    border: 4px solid #000;
+    margin: 10px 20px;
+    max-width: 980px;
+}
+.personal-information {
+    max-height: 700px;
+    margin-top: 10px;
+    padding: 20px;
+}
+.content {
+    margin-bottom: 30px;
+}
+.left-div {
+    width: 30%;
+    float: left;
+}
+.right-div {
+    width: 70%;
+    float: left;
+}
+.common-hr {
+    border: 2px solid #000;
+    margin: 20px auto;
+    border-bottom: none;
+    width: 100%;
+}
+
+.work-information {
+    max-height: 700px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.left-div1 {
+    width: 30%;
+    float: left;
+}
+.right-div1 {
+    width: 70%;
+    float: left;
+}
+
+.right-div2 {
+    width: 70%;
+    float: right;
+}
+.right-div3 {
+    width: 70%;
+    float: right;
+}
+.right-div4 {
+    width: 70%;
+    float: right;
+}
+.s-right-1 {
+    width: 45%;
+    float: left;
+}
+.s-right-2 {
+    width: 45%;
+    float: right;
+}
+.left-div5 {
+    float: left;
+    width: 31%;
+}
+.right-div5 {
+    float: right;
+    width: 69%;
+}
+.left-div2 {
+    float: left;
+    margin: 20px;
+}
+.left-div6 {
+    float: left;
+    width: 30%;
+}
+.s-left-2 {
+    float: left;
+    width: 45%;
+}
+.s-right-3 {
+    float: right;
+    width: 45%;
+}
+.social {
+    text-align: center;
+}
+.social a {
+    padding: 20px;
+    text-decoration: none;
+    color: azure;
+}
+footer {
+    
+}
+.social p {
+    color: azure;
+    margin-top: 20px;
+}
